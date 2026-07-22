@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=400&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=45&lines=aerospace%20engineering%20@%20TU%20Delft;controls%20%C2%B7%20signal%20processing%20%C2%B7%20data%20pipelines;i%20build%20software%20+%20hardware" alt="aerospace engineering @ TU Delft">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=400&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=45&lines=aerospace%20engineering%20@%20TU%20Delft;i%20love%20to%20+%20think" alt="aerospace engineering @ TU Delft">
 </div>
 
 <pre>
