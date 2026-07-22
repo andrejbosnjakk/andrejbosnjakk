@@ -25,12 +25,3 @@
       :.         .-  =*  .::*#*==#
         .::::-----::::--   :+*++#
 </pre>
-
-<pre>
-projects
-──────────
-<a href="https://github.com/andrejbosnjakk/lidar-tracking-gimbal">lidar-tracking-gimbal</a>   ToF tracker · PID · Kalman filtering
-<a href="https://github.com/andrejbosnjakk/imc-prosperity-4">imc-prosperity-4</a>        algo trading · 9th/500+ · vol-smile fitting
-<a href="https://delftdibs.nl">delft-dibs</a>              student housing · FastAPI / PostgreSQL
-<a href="https://andrejbosnjak.com/#projects">lectra</a>                  TU Delft course intelligence
-</pre>
