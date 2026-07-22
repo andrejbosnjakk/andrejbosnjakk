@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=400&size=17&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=45&lines=aerospace%20engineering%20@%20TU%20Delft;i%20love%20to%20think%20and%20solve%20problems" alt="aerospace engineering @ TU Delft">
-</div>
-
 <pre>
                  .:::
                -=======+
