@@ -5,10 +5,10 @@
            ++%@@#@@@@@%*#%+
          %*+=#+**%%*+*%@@@#==        Andrej Bošnjak
         =@%*-+=+=++#+++.:#@@*+       ──────────────────
-      +:+**+*@@@#+*%%##.-==%@@       role   : student @ TU Delft
+      +:+**+*@@@#+*%%##.-==%@@       role   : aerospace engineering @ TU Delft
       =-#+#*=**+**#@%** .@@@@*       based  : Delft, Netherlands
        -+%##+#%+#=#@@+*%@@@@#        now    : Montana Aerospace — engineering intern (Aug 2026)
-        *%@%%==+###**: -  :*         next   : AeroDelft — electronics & software (Sep 2026)
+        *%@%%==+###**: -  :*         next   : AeroDelft - electronics & software (Sep 2026)
           .:*-...   .. -. :+         edu    : BSc AE, TU Delft · IB 42/45, VIS
              .--..   =-=@:**         focus  : modeling noisy environments & making decisions w/ incomplete data
              :*=--   ::=##%         
